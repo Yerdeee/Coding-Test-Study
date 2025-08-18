@@ -39,3 +39,8 @@
 
  <p>출력해야하는 명령이 주어질 때마다, 한 줄에 하나씩 출력한다.</p>
 
+ ## 후기
+
+ <p>collections의 deque 모듈 활용</p>
+ <p>sys.stdin.readline() 안쓰면 시간초과</p>
+
